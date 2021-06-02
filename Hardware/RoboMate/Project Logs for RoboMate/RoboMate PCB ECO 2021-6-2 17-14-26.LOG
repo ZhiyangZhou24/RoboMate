@@ -1,0 +1,43 @@
+Added Component: Designator=U1_LINE1(SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C9840"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C9840.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Added Component: Designator=U1_LINE2(SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C9840"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C9840.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_LINE1_2 Pin=U1_LINE1-1
+Added Pin To Net: NetName=NetC5_LINE1_2 Pin=U1_LINE1-2
+Added Pin To Net: NetName=NetR2_LINE1_1 Pin=U1_LINE1-3
+Added Pin To Net: NetName=NetC10_LINE1_2 Pin=U1_LINE1-4
+Added Pin To Net: NetName=NetR1_LINE1_1 Pin=U1_LINE1-5
+Added Pin To Net: NetName=NetC8_LINE1_2 Pin=U1_LINE1-6
+Added Pin To Net: NetName=GND Pin=U1_LINE1-7
+Added Pin To Net: NetName=NetC1_LINE1_1 Pin=U1_LINE1-8
+Added Pin To Net: NetName=GND Pin=U1_LINE1-9
+Added Pin To Net: NetName=NetC1_LINE2_2 Pin=U1_LINE2-1
+Added Pin To Net: NetName=NetC5_LINE1_2 Pin=U1_LINE2-2
+Added Pin To Net: NetName=NetR2_LINE2_1 Pin=U1_LINE2-3
+Added Pin To Net: NetName=NetC10_LINE2_2 Pin=U1_LINE2-4
+Added Pin To Net: NetName=NetR1_LINE2_1 Pin=U1_LINE2-5
+Added Pin To Net: NetName=NetC8_LINE2_2 Pin=U1_LINE2-6
+Added Pin To Net: NetName=GND Pin=U1_LINE2-7
+Added Pin To Net: NetName=NetC1_LINE2_1 Pin=U1_LINE2-8
+Added Pin To Net: NetName=GND Pin=U1_LINE2-9
+Added Member To Class: ClassName=LINE1 Member=Component U1_LINE1 (U1) TPS54531DDAR
+Added Member To Class: ClassName=LINE2 Member=Component U1_LINE2 (U1) TPS54531DDAR
+Added Room: Name=LINE1
+Added Room: Name=LINE2
+Added Room: Name=Top

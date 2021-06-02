@@ -1,0 +1,206 @@
+Added Component: Designator=C1_U_Main1(C 0603)
+Added Component: Designator=C1_U_Main2(C 0603)
+Added Component: Designator=C2_U_Main1(1206-C)
+Added Component: Designator=C2_U_Main2(1206-C)
+Added Component: Designator=C3_U_Main1(1206-C)
+Added Component: Designator=C3_U_Main2(1206-C)
+Added Component: Designator=C4_U_Main1(1206-C)
+Added Component: Designator=C4_U_Main2(1206-C)
+Added Component: Designator=C5_U_Main1(1206-C)
+Added Component: Designator=C5_U_Main2(1206-C)
+Added Component: Designator=C6_U_Main1(1206-C)
+Added Component: Designator=C6_U_Main2(1206-C)
+Added Component: Designator=C7_U_Main1(1206-C)
+Added Component: Designator=C7_U_Main2(1206-C)
+Added Component: Designator=C8_U_Main1(C 0603)
+Added Component: Designator=C8_U_Main2(C 0603)
+Added Component: Designator=C9_U_Main1(C 0603)
+Added Component: Designator=C9_U_Main2(C 0603)
+Added Component: Designator=C10_U_Main1(1206-C)
+Added Component: Designator=C10_U_Main2(1206-C)
+Added Component: Designator=D1_U_Main1(SMC_L6.9-W5.9-LS7.9-RD)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Main2(SMC_L6.9-W5.9-LS7.9-RD)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=L1_U_Main1(L-CDRH74R)
+Added Component: Designator=L1_U_Main2(L-CDRH74R)
+Added Component: Designator=P1(XT30-HF)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(XT30-HF)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(XT30-HF)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_Main1(0603-R)
+Added Component: Designator=R1_U_Main2(0603-R)
+Added Component: Designator=R2_U_Main1(R 0603)
+Added Component: Designator=R2_U_Main2(R 0603)
+Added Component: Designator=R3_U_Main1(0603-R)
+Added Component: Designator=R3_U_Main2(0603-R)
+Added Component: Designator=R4_U_Main1(R 0603)
+Added Component: Designator=R4_U_Main2(R 0603)
+Added Component: Designator=R5_U_Main1(R 0603)
+Added Component: Designator=R5_U_Main2(R 0603)
+Added Component: Designator=R7_U_Main1(R 0603)
+Added Component: Designator=R7_U_Main2(R 0603)
+Added Component: Designator=R9_U_Main1(R 0603)
+Added Component: Designator=R9_U_Main2(R 0603)
+Added Component: Designator=R10_U_Main1(R 0603)
+Added Component: Designator=R10_U_Main2(R 0603)
+Added Component: Designator=R11_U_Main1(R 0603)
+Added Component: Designator=R11_U_Main2(R 0603)
+Added Component: Designator=R12_U_Main1(R 0603)
+Added Component: Designator=R12_U_Main2(R 0603)
+Added Component: Designator=R13_U_Main1(R 0603)
+Added Component: Designator=R13_U_Main2(R 0603)
+Added Component: Designator=U1_U_Main1(SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C9840"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C9840.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Main2(SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C9840"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C9840.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C2_U_Main2-1
+Added Pin To Net: NetName=GND Pin=C3_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C3_U_Main2-1
+Added Pin To Net: NetName=GND Pin=C4_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C4_U_Main2-1
+Added Pin To Net: NetName=GND Pin=C5_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C5_U_Main2-1
+Added Pin To Net: NetName=GND Pin=C6_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C6_U_Main2-1
+Added Pin To Net: NetName=GND Pin=C7_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C7_U_Main2-1
+Added Pin To Net: NetName=GND Pin=C9_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C9_U_Main2-1
+Added Pin To Net: NetName=GND Pin=C10_U_Main1-1
+Added Pin To Net: NetName=GND Pin=C10_U_Main2-1
+Added Pin To Net: NetName=GND Pin=D1_U_Main1-1
+Added Pin To Net: NetName=GND Pin=D1_U_Main2-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=R3_U_Main1-1
+Added Pin To Net: NetName=GND Pin=R3_U_Main2-1
+Added Pin To Net: NetName=GND Pin=R4_U_Main1-1
+Added Pin To Net: NetName=GND Pin=R4_U_Main2-1
+Added Pin To Net: NetName=GND Pin=R5_U_Main1-1
+Added Pin To Net: NetName=GND Pin=R5_U_Main2-1
+Added Pin To Net: NetName=GND Pin=U1_U_Main1-7
+Added Pin To Net: NetName=GND Pin=U1_U_Main2-7
+Added Pin To Net: NetName=NetC1_U_Main1_1 Pin=C1_U_Main1-1
+Added Pin To Net: NetName=NetC1_U_Main1_1 Pin=D1_U_Main1-2
+Added Pin To Net: NetName=NetC1_U_Main1_1 Pin=L1_U_Main1-1
+Added Pin To Net: NetName=NetC1_U_Main1_1 Pin=U1_U_Main1-8
+Added Net: Name=NetC1_U_Main1_1
+Added Pin To Net: NetName=NetC1_U_Main1_2 Pin=C1_U_Main1-2
+Added Pin To Net: NetName=NetC1_U_Main1_2 Pin=U1_U_Main1-1
+Added Net: Name=NetC1_U_Main1_2
+Added Pin To Net: NetName=NetC1_U_Main2_1 Pin=C1_U_Main2-1
+Added Pin To Net: NetName=NetC1_U_Main2_1 Pin=D1_U_Main2-2
+Added Pin To Net: NetName=NetC1_U_Main2_1 Pin=L1_U_Main2-1
+Added Pin To Net: NetName=NetC1_U_Main2_1 Pin=U1_U_Main2-8
+Added Net: Name=NetC1_U_Main2_1
+Added Pin To Net: NetName=NetC1_U_Main2_2 Pin=C1_U_Main2-2
+Added Pin To Net: NetName=NetC1_U_Main2_2 Pin=U1_U_Main2-1
+Added Net: Name=NetC1_U_Main2_2
+Added Pin To Net: NetName=NetC2_U_Main1_2 Pin=C2_U_Main1-2
+Added Pin To Net: NetName=NetC2_U_Main1_2 Pin=C3_U_Main1-2
+Added Pin To Net: NetName=NetC2_U_Main1_2 Pin=C4_U_Main1-2
+Added Pin To Net: NetName=NetC2_U_Main1_2 Pin=L1_U_Main1-2
+Added Pin To Net: NetName=NetC2_U_Main1_2 Pin=P2-1
+Added Pin To Net: NetName=NetC2_U_Main1_2 Pin=R1_U_Main1-2
+Added Net: Name=NetC2_U_Main1_2
+Added Pin To Net: NetName=NetC2_U_Main2_2 Pin=C2_U_Main2-2
+Added Pin To Net: NetName=NetC2_U_Main2_2 Pin=C3_U_Main2-2
+Added Pin To Net: NetName=NetC2_U_Main2_2 Pin=C4_U_Main2-2
+Added Pin To Net: NetName=NetC2_U_Main2_2 Pin=L1_U_Main2-2
+Added Pin To Net: NetName=NetC2_U_Main2_2 Pin=P3-1
+Added Pin To Net: NetName=NetC2_U_Main2_2 Pin=R1_U_Main2-2
+Added Net: Name=NetC2_U_Main2_2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=C5_U_Main1-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=C5_U_Main2-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=C6_U_Main1-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=C6_U_Main2-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=C7_U_Main1-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=C7_U_Main2-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=P1-1
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=R2_U_Main1-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=R2_U_Main2-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=U1_U_Main1-2
+Added Pin To Net: NetName=NetC5_U_Main1_2 Pin=U1_U_Main2-2
+Added Net: Name=NetC5_U_Main1_2
+Added Pin To Net: NetName=NetC8_U_Main1_1 Pin=C8_U_Main1-1
+Added Pin To Net: NetName=NetC8_U_Main1_1 Pin=R5_U_Main1-2
+Added Net: Name=NetC8_U_Main1_1
+Added Pin To Net: NetName=NetC8_U_Main1_2 Pin=C8_U_Main1-2
+Added Pin To Net: NetName=NetC8_U_Main1_2 Pin=C9_U_Main1-2
+Added Pin To Net: NetName=NetC8_U_Main1_2 Pin=U1_U_Main1-6
+Added Net: Name=NetC8_U_Main1_2
+Added Pin To Net: NetName=NetC8_U_Main2_1 Pin=C8_U_Main2-1
+Added Pin To Net: NetName=NetC8_U_Main2_1 Pin=R5_U_Main2-2
+Added Net: Name=NetC8_U_Main2_1
+Added Pin To Net: NetName=NetC8_U_Main2_2 Pin=C8_U_Main2-2
+Added Pin To Net: NetName=NetC8_U_Main2_2 Pin=C9_U_Main2-2
+Added Pin To Net: NetName=NetC8_U_Main2_2 Pin=U1_U_Main2-6
+Added Net: Name=NetC8_U_Main2_2
+Added Pin To Net: NetName=NetC10_U_Main1_2 Pin=C10_U_Main1-2
+Added Pin To Net: NetName=NetC10_U_Main1_2 Pin=U1_U_Main1-4
+Added Pin To Net: NetName=NetC10_U_Main1_2 Pin=U1_U_Main1-9
+Added Net: Name=NetC10_U_Main1_2
+Added Pin To Net: NetName=NetC10_U_Main2_2 Pin=C10_U_Main2-2
+Added Pin To Net: NetName=NetC10_U_Main2_2 Pin=U1_U_Main2-4
+Added Pin To Net: NetName=NetC10_U_Main2_2 Pin=U1_U_Main2-9
+Added Net: Name=NetC10_U_Main2_2
+Added Pin To Net: NetName=NetR1_U_Main1_1 Pin=R1_U_Main1-1
+Added Pin To Net: NetName=NetR1_U_Main1_1 Pin=R3_U_Main1-2
+Added Pin To Net: NetName=NetR1_U_Main1_1 Pin=U1_U_Main1-5
+Added Net: Name=NetR1_U_Main1_1
+Added Pin To Net: NetName=NetR1_U_Main2_1 Pin=R1_U_Main2-1
+Added Pin To Net: NetName=NetR1_U_Main2_1 Pin=R3_U_Main2-2
+Added Pin To Net: NetName=NetR1_U_Main2_1 Pin=U1_U_Main2-5
+Added Net: Name=NetR1_U_Main2_1
+Added Pin To Net: NetName=NetR2_U_Main1_1 Pin=R2_U_Main1-1
+Added Pin To Net: NetName=NetR2_U_Main1_1 Pin=R4_U_Main1-2
+Added Pin To Net: NetName=NetR2_U_Main1_1 Pin=U1_U_Main1-3
+Added Net: Name=NetR2_U_Main1_1
+Added Pin To Net: NetName=NetR2_U_Main2_1 Pin=R2_U_Main2-1
+Added Pin To Net: NetName=NetR2_U_Main2_1 Pin=R4_U_Main2-2
+Added Pin To Net: NetName=NetR2_U_Main2_1 Pin=U1_U_Main2-3
+Added Net: Name=NetR2_U_Main2_1
+Added Class: Name=Top
+Added Class: Name=U_Main1
+Added Class: Name=U_Main2
+Added Class: Name=Main
+Added Room: Name=Top
+Added Room: Name=U_Main1
+Added Room: Name=U_Main2
